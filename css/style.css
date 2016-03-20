@@ -1,0 +1,148 @@
+body {
+  padding-top: 50px;
+  background-image: url('../images/asahisuperdry.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.wrapper {
+  margin-top: .5em;
+}
+p {
+  font-size: 12px;
+  color: white;
+}
+h4 {
+  font: 1em;
+}
+h5 {
+  color:white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+a {
+  font: 1em;
+  color: rgb(116, 151, 187);
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.searchfield {
+  margin-top: 1em;
+  margin-bottom: 10em;
+}
+#searchbar {
+  margin-top: 3em;
+}
+#searchbar p {
+  padding-left: 3em;
+  font-size: 10px;
+  color: white;
+  color: #5c7182;
+}
+#searchbar a {
+  color: #5c7182;
+}
+#currency {
+background-color: rgba(0, 0, 0, 0.5);
+height: 100%;
+margin: 0 auto;
+align-items: center;
+align-content: center;
+
+}
+#ratio-list {
+  width: 100%;
+  list-style: none;
+  font-size: 1em;
+  color: white;
+  align-items: center;
+  align-content: center;
+  margin: 0 auto;
+}
+#ratio-list td {
+  align-items: center;
+  align-content: center;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+#ratio-list th {
+  text-align: center;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+.ratio {
+  text-align: center;
+}
+.buy {
+  text-align:right;
+}
+#poe-news {
+  color: white;
+  padding: 0 1px;
+}
+#poe-news a {
+  color: #80b3de;
+  text-decoration: underline;
+  padding: 0 1px;
+}
+#poe-news p {
+  color: #495763;
+  text-decoration: underline;
+  padding: 0 1px;
+}
+#poe-news a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+#poe-news div.header {
+  border-bottom: 1px solid #999;
+}
+#poe-news div.item {
+  padding: 5px 0;
+  border-bottom: 1px solid #999;
+}
+.chunk {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 1em;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+#daily-deal {
+  padding: 1em;
+  background: rgba(0, 0, 0, 0.7);
+}
+#daily-deal img {
+  height: 90%;
+  padding-right: 1em;
+  padding-top: 1em;
+}
+#daily-deal h5{
+  margin-top: -2.5em;
+  color: white;
+}
+#daily-deal h4{
+  margin-top: -1em;
+}
+#daily-deal .sale-price{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  color: rgb(158, 133, 59);
+}
+#reddit {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+#reddit a{
+  color: rgb(116, 151, 187);
+}
+.footer{
+  padding-top: .3em;
+  position: fixed;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 35px;
+    background-color: rgba(1, 8, 15, 0.9);
+    vertical-align: middle;
+    text-align: center;
+    color: #495763;
+    font-size: 10px;
+}
